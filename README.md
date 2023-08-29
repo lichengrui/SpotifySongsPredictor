@@ -1,6 +1,6 @@
 # Spotify Trending Song Predictor
 
-This is a project for the class CS 7641 Machine Learning at Georgia Tech. Additional information on the project can be found here: 
+This is a project for the class CS 7641: Machine Learning at Georgia Tech. Additional information on the project can be found here: 
 https://dxwu2.github.io/dwu362.github.io/
 https://www.youtube.com/watch?v=VN8HkUo5MKc
 
